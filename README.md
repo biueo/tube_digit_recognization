@@ -2,4 +2,4 @@
 
 
 ## 数码管数字识别（tube digit recognization）
-详细教程参考：[我的博客](http://www.biueo.com/2018/07/31/%E6%95%B0%E7%A0%81%E7%AE%A1%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB/)
+详细教程参考：[我的博客](https://www.dpsdp.com/archives/11.html)
